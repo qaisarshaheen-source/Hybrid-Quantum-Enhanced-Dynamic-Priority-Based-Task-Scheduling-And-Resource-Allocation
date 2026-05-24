@@ -56,7 +56,8 @@ Several examples that demonstrate the use of iQuantum can be found in the `org.i
 - `cloudsim`: Examples of modeling classical cloud computing environments (derived from CloudSim).
 - `hybrid`: Examples of modeling hybrid quantum-classical computing environments in cloud and edge layers.
 - `experimental`: Experimental examples of extending iQuantum with new features.
-
+  Path of Files
+  iQuantum->modules->iquantum-example->src->main->java->org->iquantum->example->hybrid->HQDptaraSimulationRelastic70.java \\ ClassicalDptaraSimulation.java
 
 ## Contributing
 Pull requests are welcome.
